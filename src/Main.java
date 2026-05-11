@@ -11,4 +11,5 @@ void main() {
         IO.println("i = " + i);
     }
     System.out.println("ddddd");
+     System.out.println("ddddddd");
 }
