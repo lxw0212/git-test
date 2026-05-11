@@ -10,6 +10,5 @@ void main() {
         // 但您始终可以通过按 <shortcut actionId="ToggleLineBreakpoint"/> 添加更多断点。
         IO.println("i = " + i);
     }
-    System.out.println("hello git");
-    System.out.println("hello git1");
+    System.out.println("ddddd");
 }
